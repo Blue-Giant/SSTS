@@ -1,4 +1,9 @@
 # SSTS
+created by Xi-An Li and Lei Zhang
+
+[[Paper]](https://arxiv.org/pdf/2005.09835.pdf)
+
+
 
 # Abstract
 In this work, a single-step triangular splitting (SSTS) iteration method is proposed for solving a class
