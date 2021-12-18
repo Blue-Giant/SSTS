@@ -1,5 +1,5 @@
 # SSTS
-created by Xi-An Li and Lei Zhang
+created by Jie Wu and Xi-An Li
 
 [[Paper]](https://arxiv.org/pdf/2005.09835.pdf)
 
